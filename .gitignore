@@ -1,0 +1,4 @@
+revstring
+*.out
+*.o
+~*
